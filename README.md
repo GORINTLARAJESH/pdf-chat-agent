@@ -100,7 +100,7 @@ pdf-chat-agent/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-chat-agent.git
+git clone https://github.com/GORINTLARAJESH/pdf-chat-agent.git
 
 cd pdf-chat-agent
 ```
